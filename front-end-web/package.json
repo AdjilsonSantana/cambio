@@ -1,0 +1,77 @@
+{
+  "name": "front-end-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@hookform/error-message": "^2.0.0",
+    "@iconify/iconify": "^1.0.7",
+    "@iconify/icons-gg": "^1.1.0",
+    "@iconify/icons-zmdi": "^1.1.0",
+    "@progress/kendo-react-pdf": "^4.5.0",
+    "@react-pdf/renderer": "^2.0.8",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.8.3",
+    "@types/node": "^14.14.41",
+    "@types/qs": "^6.9.6",
+    "@types/react": "^17.0.3",
+    "@types/reactjs-localstorage": "^1.0.0",
+    "alias": "^0.0.5",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.6.0",
+    "dateformat": "^4.5.1",
+    "font-awesome": "^4.7.0",
+    "javascript-to-typescript": "^1.0.2",
+    "jspdf": "^2.3.1",
+    "jwt-decode": "^3.1.2",
+    "qs": "^6.10.1",
+    "query-string": "5",
+    "react": "^17.0.1",
+    "react-date-picker": "^8.1.1",
+    "react-dom": "^17.0.1",
+    "react-hook-form": "^7.2.2",
+    "react-pdf": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3",
+    "react-select": "^4.3.0",
+    "react-table-rowspan": "^0.1.3",
+    "react-to-pdf": "^0.0.13",
+    "react-to-print": "^2.12.4",
+    "react-toastify": "^7.0.4",
+    "react-use-controller": "^1.0.0-beta.45",
+    "reactjs-localstorage": "^1.0.1",
+    "typescript": "^4.2.3",
+    "vue-docservice": "^0.1.82",
+    "web-vitals": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/react": "^1.1.4",
+    "@types/react-dom": "^17.0.2",
+    "@types/react-router-dom": "^5.1.7",
+    "@types/react-select": "^4.0.15"
+  }
+}

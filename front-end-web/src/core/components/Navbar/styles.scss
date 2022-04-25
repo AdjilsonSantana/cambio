@@ -1,0 +1,89 @@
+.main-nav {
+    height: 70px;
+    //color: rgba(255, 255, 255, 0.5);
+    background: linear-gradient(
+        0deg,
+        rgba(34, 193, 195, 1) 100%,
+        rgba(75, 214, 154, 1) 0%,
+        rgba(0, 226, 200, 1) 0%,
+        rgb(247, 247, 247) 0%
+    );
+    align-items: center;
+    padding-left: 40px;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #fff;
+}
+
+.link-nav:hover {
+    color: #fff;
+}
+
+.nav-logo-text {
+    color: #fff;
+}
+
+
+.main-menu-nav {
+    padding-left: 380px;
+}
+
+.main-menu {
+    display: flex;
+    font-size: 18px;
+    width: 400px;
+    justify-content: space-between;
+    color: #fff;
+    text-transform: uppercase;
+    //padding-left: 155px;
+    
+    
+
+    .active {
+        font-weight: bold;
+        color: #fff;
+    }
+
+    .link {
+        font-style: normal;
+        //color: rgba(255, 255, 255, 0.5);
+    }
+}
+
+.link-menu {
+    color: #fff;
+    
+}
+
+.link:hover {
+    color: #fff;
+}
+
+.nav-logo-text {
+    font-weight: bold;
+    font-size: 18px;
+    color: #fff;
+}
+
+
+.nav-link {
+         
+    font-style: normal;
+    font-size: 18px;
+    color: #fff;
+    padding-right: 40px;
+
+    &.active {
+        font-weight: bold;
+        color: #fff;
+    }
+
+    &:hover {
+        color: #fff;
+    }
+
+}
+
+.seesion_email {
+    color: #fff;
+}
